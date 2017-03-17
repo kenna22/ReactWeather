@@ -4,8 +4,9 @@ var About = (props) => {
       return (
         <div>
           <h1 className="text-center">About</h1>
-          <p>This weather app is built on React and Open Weather Map. I created
-          this app for the amazing Complete React Web App Developer Course.</p>
+          <p>This weather application is built on React and uses Open Weather Map to retrieve
+          weather data. Building this app is part of the amazing Complete React Web
+          App Developer Course.</p>
 
           <h4 className="text-center">All About Weather</h4>
           <ul>
