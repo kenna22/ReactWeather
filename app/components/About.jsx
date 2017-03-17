@@ -8,7 +8,7 @@ var About = (props) => {
           weather data. Building this app is part of the amazing Complete React Web
           App Developer Course.</p>
 
-          <h4 className="text-center">All About Weather</h4>
+          <h4 className="text-center page-title">All About Weather</h4>
           <ul>
             <li>
               <a href="https://en.wikipedia.org/wiki/Weather" target="_blank">Weather Facts</a> - Visit
